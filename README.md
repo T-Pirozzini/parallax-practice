@@ -16,17 +16,16 @@ Fully-responsive on all screen sizes.
 
 ### Home
 
-![home]()
+![home](https://github.com/T-Pirozzini/parallax-practice/blob/main/images/home.png?raw=true)
 
-### Contact Form
+### Slider Component
 
-![contact](https://github.com/T-Pirozzini/Gemini-Landscaping/blob/main/src/images/contact.png?raw=true)
+![slider](https://github.com/T-Pirozzini/parallax-practice/blob/main/images/slider.png?raw=true)
 
-### home (mobile)
+### Mobile
 
-![mobile-dashboard](https://github.com/T-Pirozzini/Gemini-Landscaping/blob/main/src/images/mobile-home.png?raw=true)
+![mobile](https://github.com/T-Pirozzini/parallax-practice/blob/main/images/mobile-array.png?raw=true)
 
-### contact (mobile)
-
-![mobile-divisions](https://github.com/T-Pirozzini/Gemini-Landscaping/blob/main/src/images/mobile-service.png?raw=true)
-
+## Code Tutorial:
+Chris Pennington: Landing Page Build (with Parallax)
+* This project was completed as a code-along
