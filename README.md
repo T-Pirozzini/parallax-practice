@@ -1,4 +1,4 @@
-## :Sparkles: Parallax Effect
+## :sparkles: Parallax Effect
 
 A Single Page Application using Tailwind and a Parallax layered effect.
 <br>
