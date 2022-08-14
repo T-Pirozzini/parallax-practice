@@ -10,7 +10,8 @@ Fully-responsive on all screen sizes.
 
 ## :video_camera: Live Demo
 
-<a href="">Click Here</a>
+<a href="https://parallax-site-build.netlify.app/">Click Here</a>
+<br> *Hosted on Netlify
 
 ## :camera: Screenshots
 
